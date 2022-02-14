@@ -1,0 +1,32 @@
+{
+    "Patients": [
+        {
+            "numero": "RVVXI4ZQ95",
+            "nom": "LAWSON-HETCHELY",
+            "prenom": "Lat\u00e9 Seth",
+            "age": 18,
+            "sexe": "M"
+        },
+        {
+            "numero": "RVVXI4ZQ65",
+            "nom": "BATOULIME Abdou Rachid",
+            "prenom": "Lat\u00e9 Seth",
+            "age": 18,
+            "sexe": "M"
+        },
+        {
+            "numero": "7S7VH65C69",
+            "nom": "MODZINOU",
+            "prenom": "Leticia",
+            "age": 28,
+            "sexe": "F"
+        },
+        {
+            "numero": "MVBF8C2NWK",
+            "nom": "MODZINOU",
+            "prenom": "Leticia",
+            "age": 28,
+            "sexe": "F"
+        }
+    ]
+}

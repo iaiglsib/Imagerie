@@ -1,0 +1,36 @@
+{
+    "Images": [
+        {
+            "numero": "N2CAAR5DCW",
+            "format": "png",
+            "contraste": 80,
+            "luminiosite": 50,
+            "image": "source",
+            "date": "30/01/2022"
+        },
+        {
+            "numero": "WJRX9DXPN5",
+            "format": "png",
+            "contraste": 20,
+            "luminiosite": 40,
+            "image": "source",
+            "date": "01/02/2022"
+        },
+        {
+            "numero": "99OUIS25AO",
+            "format": "png",
+            "contraste": 20,
+            "luminiosite": 40,
+            "image": "source",
+            "date": "01/02/2022"
+        },
+        {
+            "numero": "P0H7M2V4TP",
+            "format": "png",
+            "contraste": 20,
+            "luminiosite": 40,
+            "image": "source",
+            "date": "01/02/2022"
+        }
+    ]
+}

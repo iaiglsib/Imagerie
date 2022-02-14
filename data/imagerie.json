@@ -1,0 +1,50 @@
+{
+    "Imageries": [
+        {
+            "numero": "J9M4FQC6F9",
+            "date": "01/02/2022",
+            "typeImagerie": "scanner",
+            "description": "nothing",
+            "partieDuCorps": "seins",
+            "etatUrgence": 0,
+            "image": {
+                "numero": "99OUIS25AO",
+                "format": "png",
+                "contraste": 20,
+                "luminiosite": 40,
+                "image": "source",
+                "date": "01/02/2022"
+            },
+            "patient": {
+                "numero": "7S7VH65C69",
+                "nom": "MODZINOU",
+                "prenom": "Leticia",
+                "age": 28,
+                "sexe": "F"
+            }
+        },
+        {
+            "numero": "VGY2M1BWM5",
+            "date": "01/02/2022",
+            "typeImagerie": "scanner",
+            "description": "nothing",
+            "partieDuCorps": "seins",
+            "etatUrgence": 0,
+            "image": {
+                "numero": "P0H7M2V4TP",
+                "format": "png",
+                "contraste": 20,
+                "luminiosite": 40,
+                "image": "source",
+                "date": "01/02/2022"
+            },
+            "patient": {
+                "numero": "MVBF8C2NWK",
+                "nom": "MODZINOU",
+                "prenom": "Leticia",
+                "age": 28,
+                "sexe": "F"
+            }
+        }
+    ]
+}
